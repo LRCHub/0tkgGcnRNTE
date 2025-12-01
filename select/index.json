@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "나의 사춘기에게",
+  "base_artist": "赤頬思春期",
+  "createdAt": "2025-12-01T12:50:00.588941Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "나의 사춘기에게 (feat. Euna Kang)",
+      "artist": "gru:v",
+      "has_synced": false,
+      "path": "select/01_나의_사춘기에게_(feat._Euna_Kang)_gru_v.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "나의 사춘기에게",
+      "artist": "볼빨간 사춘기",
+      "has_synced": false,
+      "path": "select/pl_01_나의_사춘기에게_볼빨간_사춘기.txt"
+    }
+  ]
+}
